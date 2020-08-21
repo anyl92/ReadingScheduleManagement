@@ -1,0 +1,11 @@
+.write {
+  width: 100%;
+  text-align: center;
+}
+
+.boardTable {
+  width: 80%;
+  border: 1px solid black;
+  text-align: center;
+  margin: 40px auto;
+}
