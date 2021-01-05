@@ -50,8 +50,6 @@ function App() {
     }
   }
 
-  console.log(boardList, '화긴')
-
   return (
     <div className="App">
       <div className="write">
